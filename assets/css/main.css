@@ -2190,6 +2190,7 @@ input, select, textarea {
 /* Labeled Icons */
 
 	ul.labeled-icons {
+		display: inline-block;
 		list-style: none;
 		padding: 0;
 	}
